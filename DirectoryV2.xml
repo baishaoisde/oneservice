@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/src/main/resources/static" title="web相关的静态资源-前后端分离无用"/>
+     <tree path="/src/main/resources/templates" title="HTML的模版-前后端分离无用"/>
+     <tree path="/src/main/java/com/shihang/oneservice/controller" title="接受web请求层"/>
+ </trees>
